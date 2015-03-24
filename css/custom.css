@@ -1,2 +1,22 @@
 /*custom styles*/
 
+body {
+	background-color: #3E4038;
+}
+
+h1 {
+	text-align: center;
+}
+
+div.container {
+	background-color: #D6FFD4;
+}
+
+div.jumbotron {
+	background-color: #FF3907;
+}
+
+a.footer {
+	color: #3E4038;
+	font-size:200%;
+}
