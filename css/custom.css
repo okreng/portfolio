@@ -20,3 +20,8 @@ a.footer {
 	color: #3E4038;
 	font-size:200%;
 }
+
+a.wufoo {
+	color: #3E4038;
+	text-decoration:underline;
+}
