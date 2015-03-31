@@ -35,3 +35,7 @@ a.wufoo {
 div.carousel-caption {
 	font-family: Lucida, Times, Serif;
 }
+
+.carousel-inner > .item > img {
+	margin: 0 auto;
+}
