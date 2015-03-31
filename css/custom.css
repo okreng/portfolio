@@ -31,3 +31,7 @@ a.wufoo {
 	color: #3E4038;
 	text-decoration:underline;
 }
+
+div.carousel-caption {
+	font-family: Lucida, Times, Serif;
+}
