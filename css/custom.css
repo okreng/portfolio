@@ -4,8 +4,14 @@ body {
 	background-color: #3E4038;
 }
 
+p.top {
+	text-align: center;
+	font-family: Georgia, Times, serif;
+}
+
 h1 {
 	text-align: center;
+	font-family: Arial black, arial, sans-serif;
 }
 
 div.container {
