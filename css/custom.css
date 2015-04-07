@@ -39,3 +39,12 @@ div.carousel-caption {
 .carousel-inner > .item > img {
 	margin: 0 auto;
 }
+
+p.black {
+	color: #0C39B2;
+}
+
+p.blue {
+	color: #FF8D12;
+
+}
